@@ -1,0 +1,30 @@
+body {
+    background-image: url('../assets/image.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.logo-container img {
+    height: 100px;
+}
+
+hr {
+    width: 80%;
+    margin-top: 1px;
+    margin-bottom: 5px;
+}
+
+.label {
+    font-weight: bold;
+}
+
+.sub-label {
+    font-weight: 200;
+    font-size: 13px;
+}
+
+.active {
+    color: green;
+    font-weight: bold;
+}
